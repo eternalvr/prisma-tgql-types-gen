@@ -41,7 +41,7 @@
   "homepage": "https://github.com/YassinEldeeb/Prisma-TypeGraphQL-Types-Generator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YassinEldeeb/prisma-tgql-types-gen.git"
+    "url": "https://github.com/eternalvr/prisma-tgql-types-gen.git"
   },
   "author": "Yassin Eldeeb <yassineldeeb94@gmail.com>",
   "keywords": [

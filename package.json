@@ -12,6 +12,7 @@
     "prettier": "^2.6.0",
     "prisma": "^3.11.0"
   },
+  
   "config": {
     "commitizen": {
       "path": "node_modules/cz-conventional-changelog"

@@ -259,7 +259,7 @@ generatorHandler({
       imports.push(
         IMPORT_TEMPLATE(
           `{ Field, ObjectType${dynamicImports} }`,
-          `type-graphql`,
+          `@nestjs/graphql`,
         ),
       )
 
